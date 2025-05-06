@@ -8,7 +8,7 @@
 typedef struct {
     double x;
     double y;
-} Vetor;
+} Vetor; 
 
 // Função para calcular o módulo de um vetor
 double modulo(Vetor v) {
