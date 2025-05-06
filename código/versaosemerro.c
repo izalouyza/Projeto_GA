@@ -55,7 +55,7 @@ const char* tipoTrianguloPorLados(double a, double b, double c) {
 // Função para verificar o tipo de triângulo por ângulos
 const char* tipoTrianguloPorAngulos(double ang1, double ang2, double ang3) {
     // Verifica se algum dos ângulos é aproximadamente 90 graus, considerando uma tolerância de 0.000001
-    if (fabs(ang1 - 90.0) < 1e-6 || fabs(ang2 - 90.0) < 1e-6 || fabs(ang3 - 90.0) < 1e-6) { 
+    if (fabs(ang1 - 90.0) < 1e-6 || fabs(ang2 - 90.0) < 1e-6 || fabs(ang3 - 90.0) < 1e-6) { //fabs = função da biblioteca que retorna o valor absoluto de um número do tipo double
         return "Retângulo";
     } else if (ang1 < 90.0 && ang2 < 90.0 && ang3 < 90.0) {
         return "Acutângulo";
