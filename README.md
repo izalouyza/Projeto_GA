@@ -12,7 +12,7 @@ Esse repositório refere-se ao trabalho da primeira unidade da disciplina de Geo
 
 ---
 
-## 🌟 1. Exemplo de Fluxo de Uso
+## 1. Exemplo de Fluxo de Uso
 
 - **Digite as coordenadas do vetor V1**.
 - **Digite as coordenadas do vetor V2**.
