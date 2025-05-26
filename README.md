@@ -35,6 +35,8 @@ Projeto_GA/
 ```
 - **main.c**: arquivo que contém o exemplo prático.
 
+---
+
 ### 3. Como compilar e executar o programa
 
 Para compilar e executar o sistema, siga os passos abaixo:
