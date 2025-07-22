@@ -8,7 +8,7 @@ Esse repositório refere-se ao trabalho da primeira unidade da disciplina de Geo
 
 👨‍🏫 **Professor:** Otávio Floriano Paulino
 
-👩‍🎓 **Discentes:** [Izadora Louyza Silva Figueiredo](https://github.com/liyuhi) e [Lívian Maria Lucena Gomes Pinheiro](https://github.com/livianlucena)
+👩‍🎓 **Discentes:** [Izadora Louyza Silva Figueiredo](https://github.com/izalouyza) e [Lívian Maria Lucena Gomes Pinheiro](https://github.com/livianlucena)
 
 ---
 
@@ -46,7 +46,7 @@ Para compilar e executar o sistema, siga os passos abaixo:
 2. Clone o repositório do projeto:
 
 ```
-git clone https://github.com/liyuhi/Projeto_GA
+git clone https://github.com/izalouyza/Projeto_GA
 ```
 
 3. Acesse a pasta do repositório:
