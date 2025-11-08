@@ -1,4 +1,4 @@
-# Projeto de Geometria Analítica: Triângulos no Plano 📐
+# 📐 Projeto de Geometria Analítica: Triângulos no Plano
 
 Esse repositório refere-se ao trabalho da primeira unidade da disciplina de Geometria Analítica. O programa, em linguagem C, é destinado a receber as coordenadas de três vetores no plano (representando os lados de um triângulo com origem comum), calcular os ângulos entre eles e, dessa forma, identificar o tipo de triângulo formado (equilátero, isósceles, escaleno, retângulo, obtusângulo ou acutângulo).
 
@@ -16,17 +16,19 @@ Esse repositório refere-se ao trabalho da primeira unidade da disciplina de Geo
 
 ---
 
-## 1. Exemplo de Fluxo de Uso
+## ⚙️ Exemplo de Uso
 
-- **Digite as coordenadas do vetor V1**.
-- **Digite as coordenadas do vetor V2**.
-- **Digite as coordenadas do vetor V3**.
-- **Visualize a definição do triângulo**, de acordo com as coordenadas inseridas.
-- **Finalize o sistema**.
+> **Fluxo de execução do programa:**
+
+1. O usuário **insere as coordenadas** dos três vetores: `V1`, `V2` e `V3`.  
+2. O programa **calcula os ângulos** entre os vetores.  
+3. É feita a **verificação automática do tipo de triângulo** formado.  
+4. O resultado é exibido em tela.  
+5. O sistema encerra sua execução.  
 
 ---
 
-## 2. Estrutura de Pastas
+## 📂 Estrutura de Pastas
 
 ```
 Projeto_GA/
@@ -38,39 +40,35 @@ src/
 └── README.md                      
                 
 ```
-- **main.c**: arquivo que contém o exemplo prático.
+main.c → Contém o código principal do programa e a lógica de análise dos triângulos.
 
 ---
 
-### 3. Como compilar e executar o programa
+## 🚀 Como Compilar e Executar  
 
-Para compilar e executar o sistema, siga os passos abaixo:
+Siga as etapas abaixo para rodar o projeto localmente:  
 
-1. Primeiramente, certifique-se de ter um ambiente que suporte a linguagem C e um compilador (por exemplo, GCC).
-   
-2. Clone o repositório do projeto:
+### 1. Verifique o ambiente  
+
+Certifique-se de ter instalado um compilador **C** (como o **GCC**) e um ambiente de desenvolvimento, como **VSCode**.
+
+### 2. Clone o repositório  
 
 ```
 git clone https://github.com/izalouyza/Projeto_GA
 ```
 
-3. Acesse a pasta do repositório:
-   
+### 3. Acesse o diretório do código-fonte
 ```
-cd src/Projeto_GA/codigo-fonte
+cd Projeto_GA/src/codigo-fonte
 ```
 
-4. Compile o programa:
-
+### 4. Compilar o programa
 ```
 gcc -o aplicacao main.c
 ```
-
-
-5. Execute o programa:
-   
+### 5. Executar o programa
 ```
-.\aplicacao
+./aplicacao
 ```
-
-
+---
