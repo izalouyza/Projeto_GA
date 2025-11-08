@@ -2,8 +2,10 @@
 
 Esse repositório refere-se ao trabalho da primeira unidade da disciplina de Geometria Analítica. O programa, em linguagem C, é destinado a receber as coordenadas de três vetores no plano (representando os lados de um triângulo com origem comum), calcular os ângulos entre eles e, dessa forma, identificar o tipo de triângulo formado (equilátero, isósceles, escaleno, retângulo, obtusângulo ou acutângulo).
 
-![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
+![Ambiente](https://img.shields.io/badge/Ambiente-VSCode-blue)
 ![Último commit](https://img.shields.io/github/last-commit/izalouyza/Projeto_GA)
+
 ---
 
 ## 👨‍👧‍👧 Autores
