@@ -30,6 +30,7 @@ Esse repositório refere-se ao trabalho da primeira unidade da disciplina de Geo
 
 ```
 Projeto_GA/
+src/
 │
 ├── codigo-fonte/
 │   └── main.c
@@ -56,10 +57,7 @@ git clone https://github.com/izalouyza/Projeto_GA
 3. Acesse a pasta do repositório:
    
 ```
-cd Projeto_GA
-```
-```
-cd codigo-fonte
+cd src/Projeto_GA/codigo-fonte
 ```
 
 4. Compile o programa:
